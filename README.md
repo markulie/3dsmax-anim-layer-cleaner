@@ -25,7 +25,7 @@ Animation Layer Cleaner for 3ds Max
 
 ## Changelog
 
-__Version: 0.1 | October 1, 2023__
+__Version: 0.1 | September 30, 2023__
 - Initial Release 
 
 
