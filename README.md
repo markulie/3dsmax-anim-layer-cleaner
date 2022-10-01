@@ -2,7 +2,7 @@
 Animation Layer Cleaner for 3ds Max
 
 <p align="center">
-  <img width="192" height="451" src="https://raw.githubusercontent.com/markulie/ProColor/master/ProColor_Window.png">
+  <img width="162" height="155" src="https://raw.githubusercontent.com/markulie/AnimLayerCleaner/main/AnimLayerCleaner_Window.png">
 </p>
 
 
