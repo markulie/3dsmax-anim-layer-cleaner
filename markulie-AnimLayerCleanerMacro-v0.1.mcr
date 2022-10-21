@@ -2,7 +2,7 @@
 -- Description: Animation Layer Cleaner for 3ds Max
 -- Version: 0.1
 -- Author: Markulie
--- Created: September 30, 2023
+-- Created: September 30, 2022
 
 
 macroscript AnimLayerCleanerMacro
