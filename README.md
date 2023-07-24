@@ -5,7 +5,7 @@ Animation Layer Cleaner for 3ds Max
   <img width="162" height="155" src="https://raw.githubusercontent.com/markulie/AnimLayerCleaner/main/AnimLayerCleaner_Window.png">
 </p>
 <p>
-  Occasionally, the latest version of 3ds Max may encounter bugs that result in slow performance due to Animation Layer issues. The frustrating part is that your scene may not show any errors or notifications, making it difficult to determine whether it contains bugged animation layers or not. However, this script can be of great assistance in detecting and removing all problematic animation layers from your scene. With its help, you can ensure smoother performance and a bug-free experience.
+  Occasionally, the latest versions of 3ds Max may encounter bugs that result in slow performance due to Animation Layer issues. The frustrating part is that your scene may not show any errors or notifications, making it difficult to determine whether it contains bugged animation layers or not. However, this script can be of great assistance in detecting and removing all problematic animation layers from your scene. With its help, you can ensure smoother performance and a bug-free experience.
 </p>
 
 
