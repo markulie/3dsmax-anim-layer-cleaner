@@ -1,4 +1,9 @@
 # AnimLayerCleaner
+
+![GitHub repo size](https://img.shields.io/github/repo-size/markulie/AnimLayerCleaner)
+![GitHub stars](https://img.shields.io/github/stars/markulie/AnimLayerCleaner?style=social)
+![GitHub forks](https://img.shields.io/github/forks/markulie/AnimLayerCleaner?style=social)
+
 Animation Layer Cleaner for 3ds Max
 
 <p align="center">
