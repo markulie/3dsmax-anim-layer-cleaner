@@ -10,8 +10,8 @@ Animation Layer Cleaner for 3ds Max
 
 
 ## Features
-- Checking Animation Layers
-- Cleaning Animation Layers
+- Checking Bugged Animation Layers
+- Cleaning Bugged Animation Layers
 
 ## Installation
 1. Click the Scripting in the Main Menu, select Run Script...
