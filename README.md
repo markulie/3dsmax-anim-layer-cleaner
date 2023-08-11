@@ -4,7 +4,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/markulie/AnimLayerCleaner?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/markulie/AnimLayerCleaner?style=social)
 
-Animation Layer Cleaner for 3ds Max
+Bugged Animation Layer Cleaner for 3ds Max
 
 <p align="center">
   <img width="162" height="155" src="https://raw.githubusercontent.com/markulie/AnimLayerCleaner/main/AnimLayerCleaner_Window.png">
