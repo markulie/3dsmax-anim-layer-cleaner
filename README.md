@@ -15,7 +15,7 @@ Animation Layer Cleaner for 3ds Max
 
 ## Installation
 1. Click the Scripting in the Main Menu, select Run Script...
-2. Locate and select the script and press Open (or Drag and Drop in the viewport)
+2. Locate and select the script "markulie-AnimLayerCleanerMacro.mcr" and press Open (or Drag and Drop in the viewport)
 
 ## To Use It
 1. Go to Customize > Customize User Interface and select the desired Tab (Toolbars, Quad, Menu)
